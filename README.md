@@ -1,2 +1,3 @@
-# ecom_lambda_aws_serverless
-Backend of ecommerce on serverless technology using AWS cloud native tools 
+# a serverless ecommerce built on AWS lambda
+
+Lets build a sample ecommerce on AWS with serverless technologies 
